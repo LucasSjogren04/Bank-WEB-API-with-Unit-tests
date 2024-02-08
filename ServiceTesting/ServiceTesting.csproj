@@ -24,7 +24,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\UPG3ButWithTests\UPG3ButWithTests.csproj" />
+    <ProjectReference Include="..\UPG3ButWithTests\BankWebAPI.csproj" />
   </ItemGroup>
 
 </Project>
